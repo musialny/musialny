@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Average guy with intrest in Computer Science and Electronic engineering
+Average guy with interest in Computer Science and Electronic engineering
 
 ## Technologies and skills
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
