@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Average guy with interest in Computer Science and Electronic engineering
+Average guy with interest in Computer Science, Electronic engineering and Automotive
 
 ## Technologies and skills
 
