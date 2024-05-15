@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Average guy with interest in Computer Science, Electronic engineering and Automotive
+Average guy engaged in Computer Science, Electronics / Electrotechnics and Automotive
 
 ## Technologies and skills
 
@@ -14,7 +14,6 @@ Low level and embedded systems development
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - Assembly (avr8 | arm | x86)
-- Electronics
 
 </td>
 <td>
@@ -49,6 +48,15 @@ DevOps and SysOps:
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 - ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 - Networking
+
+</td>
+<td>
+
+Electrotechnics / Electroncs and Automotive:
+
+- Altium Designer
+- Solidworks
+- Ansys (still learing tho)
 
 </td>
 </tr>
