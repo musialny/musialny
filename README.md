@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Average guy engaged in Computer Science, Electronics / Electrotechnics and Automotive
+Average guy engaged in Software, Electrical and Powertrain Engineering
 
 ## Technologies and skills
 
@@ -30,7 +30,7 @@ Front-end development
 <tr>
 <td>
 
-Backend and mobile development
+Backend and mobile development:
 
 - ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -50,13 +50,16 @@ DevOps and SysOps:
 - Networking
 
 </td>
+</tr>
+
+<tr>
 <td>
 
-Electrotechnics / Electroncs and Automotive:
+CAD software:
 
 - Altium Designer
 - Solidworks
-- Ansys (still learing tho)
+- Ansys
 
 </td>
 </tr>
