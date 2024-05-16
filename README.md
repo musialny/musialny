@@ -62,6 +62,15 @@ CAD software:
 - Ansys
 
 </td>
+<td>
+
+Engineering skills:
+
+- Algorithm development
+- Electronics development
+- Mechanism development
+
+</td>
 </tr>
 
 </table>
