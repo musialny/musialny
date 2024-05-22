@@ -69,8 +69,8 @@ Engineering skills:
 - Algorithm development
 - Software architecture design
 - Network architecture design
-- Electronics development
-- Mechanism development
+- Electronics systems design
+- Mechanism desing
 
 </td>
 </tr>
