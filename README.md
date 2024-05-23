@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Average guy engaged in Software, Electrical and Electromechanical engineering
+Average guy engaged in Software, Electrical and Mechatronics engineering
 
 ## Technologies and skills
 
