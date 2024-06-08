@@ -55,11 +55,10 @@ DevOps and SysOps:
 <tr>
 <td>
 
-CAD software:
+Mainly used CAD software:
 
 - Altium Designer
 - Solidworks
-- Ansys
 
 </td>
 <td>
