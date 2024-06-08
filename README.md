@@ -2,7 +2,7 @@
 
 Average guy engaged in Software, Electrical and Mechatronics engineering
 
-## Technologies and skills
+## Most used Technologies and Skills
 
 <table>
 
@@ -55,7 +55,7 @@ DevOps and SysOps:
 <tr>
 <td>
 
-Mainly used CAD software:
+CAD software:
 
 - Altium Designer
 - Solidworks
