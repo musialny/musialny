@@ -1,6 +1,8 @@
 # Łukasz Musiał | musialny.dev
 
-Average guy engaged in Software, Electrical and Mechatronics engineering
+Average guy engaged in engineering
+
+Mainly focused on Software, Infrastructure, Electrical and Mechatronics engineering
 
 ## Most used Technologies and Skills
 
@@ -39,7 +41,7 @@ Backend and mobile development:
 </td>
 <td>
 
-DevOps and SysOps:
+Infrastructure (DevOps and SysOps):
 
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -63,7 +65,7 @@ CAD software:
 </td>
 <td>
 
-Engineering skills:
+Other skills:
 
 - Algorithm development
 - Software architecture design
