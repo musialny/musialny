@@ -2,7 +2,7 @@
 
 Average guy engaged in engineering
 
-Mainly focused on Software, Netwrok Infrastructure, Electrical and Mechatronics engineering
+Mainly focused on Software, Network Infrastructure, Electrical and Mechatronics engineering
 
 ## Most used Technologies and Skills
 
