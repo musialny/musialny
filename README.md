@@ -13,7 +13,7 @@ Average guy engaged in engineering
 
 ---
 
-## Most used Technologies and Skills
+## Most used technologies
 
 <table>
 
