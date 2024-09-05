@@ -80,6 +80,7 @@ Embedded development
 ---
 - AVR 8 bit
 - STM32
+- RPi Pico MCU series
 
 </td>
 <td>
