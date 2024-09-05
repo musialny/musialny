@@ -87,7 +87,7 @@ Embedded development
 Electrical engineering
 
 - Altium Designer
-- Inventor
+- Autodesk Inventor
 - SPICE Simulation
 
 </td>
