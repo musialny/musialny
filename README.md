@@ -93,6 +93,7 @@ Electrical engineering
 - Altium Designer
 - Autodesk Inventor
 - SPICE Simulation
+- Verilog
 
 </td>
 </tr>
