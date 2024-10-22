@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Some folk engaged in computer, infrastructure and electrical engineering
+Electron juice plumber
 
 ---
 
