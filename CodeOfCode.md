@@ -9,4 +9,4 @@
 - Tool is a dependency
 - Every external dependency needed for project should be specified with detailed informations of origin
 - 3rd party infrastructure dependencies should be wrapped in internal API
-- One or more runtime debugging solutions like logging, metrics, traces etc. should be implemented
+- One or more runtime debugging and telemetry solutions like logging, metrics, traces etc. should be implemented
