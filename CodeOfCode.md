@@ -6,7 +6,7 @@
 - Tests, tests and again, tests
 - Use static analise tools
 - Document external API and features (API Reference), describe internal structure
-- Tool is a dependency
-- Every external dependency needed for project should be specified with detailed informations of origin
+- Tools are the dependencies
+- Every external dependency needed for project assembly should be specified with detailed informations of origin
 - 3rd party infrastructure dependencies should be wrapped in internal API
 - One or more runtime debugging and telemetry solutions like logging, metrics, traces etc. should be implemented
