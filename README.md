@@ -96,8 +96,9 @@ Electrical engineering
 - EDA Design
 - Electromechanical CAD Design 
 - SPICE Simulation
-- VHDL, SystemVerilog
-
+- HDL
+  - VHDL
+  - SystemVerilog
 </td>
 </tr>
 
