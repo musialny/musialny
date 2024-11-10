@@ -2,6 +2,8 @@
 
 Electron juice plumber
 
+CE <= CS & EE
+
 ---
 
 ## **Focused fields:**
