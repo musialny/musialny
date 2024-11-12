@@ -87,7 +87,9 @@ Electrical engineering
 
 - EDA Design
 - Electromechanical CAD Design 
-- Simulation (SPICE, Electromagnetics and other related to EE)
+- Simulation
+  - Circuit simulation (SPICE and HDL simulators)
+  - Electrical Engineering related physical simulations (Electromagnetics, thermodynamics, structural etc.) 
 - HDL
   - VHDL
   - SystemVerilog
