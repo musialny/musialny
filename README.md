@@ -1,8 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Electron juice plumber
-
-CE <= CS & EE
+Electron juice plumber in automotive and audio industry
 
 ---
 
