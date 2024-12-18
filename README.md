@@ -89,7 +89,7 @@ Electrical engineering
 - Electromechanical CAD Design 
 - Simulation
   - Circuit simulation (SPICE and HDL simulators)
-  - Electrical Engineering related physical simulations (Electromagnetics, thermodynamics, structural etc.) 
+  - Electrical Engineering related physical simulations (EMI / EMC, Power analysis, electromagnetic, thermodynamics, structural etc.) 
 - HDL
   - VHDL
   - SystemVerilog
