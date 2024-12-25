@@ -4,8 +4,6 @@ Electron juice plumber in automotive, audio and networking industries
 
 ---
 
-## **Focused fields:**
-
 ### **Software Engineering:**
 
 <table>
