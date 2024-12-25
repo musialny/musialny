@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Electron juice plumber in automotive and audio industry
+Electron juice plumber in automotive, audio and networking industries
 
 ---
 
