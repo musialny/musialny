@@ -2,6 +2,8 @@
 
 Electron juice plumber
 
+CE <= {EE, CS};
+
 ---
 
 ### **Software Engineering:**
