@@ -2,7 +2,7 @@
 
 Electron juice plumber
 
-CE <= {EE, CS};
+Computer Engineering <= {Electrical Engineering, Computer Science};
 
 ---
 
