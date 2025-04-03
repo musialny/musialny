@@ -1,8 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Electron juice plumber
-
-Computer Engineering <= {Electrical Engineering, Computer Science};
+My work lives where circuits meet code, apps meets users and networks bring it all together
 
 ---
 
