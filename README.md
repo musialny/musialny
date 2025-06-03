@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-My work lives where circuits meet code, apps meets users and networks bring it all together
+Full Stack Developer | Computer & Mechatronics Engineering
 
 ---
 
