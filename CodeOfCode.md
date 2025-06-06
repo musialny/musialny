@@ -1,4 +1,5 @@
 # The Code of Code
+
 - The code have to work
 - The code has to be efficient (balance resource usage)
 - Simple abstractions are the key of readability

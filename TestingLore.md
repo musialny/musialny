@@ -4,4 +4,3 @@
 - Fragment tests: Cover whole module (whatever it means); one level of complexity up in relation to Unit tests
 - Integration tests: Tests that are embedded in a design
 - E2E (End to End) tests: Cover testing end (usage) layer of design
-  
