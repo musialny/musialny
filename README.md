@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Full Stack Developer | Computer & Mechatronics Engineering
+Full Stack Developer | Computer & Electrical Engineering
 
 ---
 
