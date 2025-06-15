@@ -92,3 +92,6 @@ DevOps and SysOps:
 - LXD / LXC Containers
 - Proxmox
 
+### **Mechanical Engineering:**
+- Mechanical Design (CAD)
+- Simulation (FEM)
