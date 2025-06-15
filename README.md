@@ -69,8 +69,8 @@ Embedded software development
 
 Electrical engineering
 
-- PCB Design (EDA)
-- Electromechanical Design (CAD)
+- PCB Design (EDA, mainly Altium Designer)
+- Electromechanical Design (CAD, mainly Solidworks)
 - Simulation (Circuit, Electromagnetic and Mechanical)
 - HDL
   - VHDL
@@ -93,5 +93,5 @@ DevOps and SysOps:
 - Proxmox
 
 ### **Mechanical Engineering:**
-- Mechanical Design (CAD)
-- Simulation (FEM)
+- Mechanical Design (CAD, mainly Solidworks)
+- Simulation (FEM, mainly Solidworks Simulation)
