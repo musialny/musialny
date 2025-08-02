@@ -19,7 +19,6 @@ Full Stack Developer | **Computer & Electronics & Electromechanical Engin
       </p>
     </td>
   </tr>
-
 </table>
 
 ---
@@ -51,7 +50,7 @@ Software engineer with an electrical‑engineering background, focused on embedd
 
 **Native applications (desktop, server & mobile)**
 
-- [C++](https://isocpp.org), [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Kotlin](https://kotlinlang.org)
+- [C++](https://isocpp.org), [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Kotlin](https://kotlinlang.org), [Swift](https://swift.org)
 - [CMake](https://cmake.org), [Gradle](https://gradle.org)
 
 **Web development (full stack)**
@@ -59,7 +58,7 @@ Software engineer with an electrical‑engineering background, focused on embedd
 - [TypeScript](https://www.typescriptlang.org), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Kotlin](https://kotlinlang.org)
 - [Vue.js](https://vuejs.org), [Webpack](https://webpack.js.org), [Vite](https://vitejs.dev)
 - [Yarn](https://yarnpkg.com), [ESLint](https://eslint.org), [Node.js](https://nodejs.org)
-- [SASS](https://sass-lang.com), [WebAssembly (Wasm)](https://webassembly.org)
+- [SASS](https://sass-lang.com), [WebAssembly (Wasm)](https://webassembly.org), [Emscripten](https://emscripten.org)
 
 #### Embedded & Electrical Engineering
 
