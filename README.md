@@ -16,7 +16,7 @@ Full Stack Developer | **Computer & Electronics & Electromechanical Engin
     </td>
     <td width="50%">
       <p>
-        I develop data visualisation solutions. At @blacklabel](https://github.com/blacklabel) I work on a biotechnology project, building interactive molecular visuals using libraries such as <a href="https://molstar.org/">Mol*</a> and <a href="https://github.com/rcsb/rcsb-saguaro">RCSB Saguaro</a>.
+        I develop data visualisation solutions. At <a href="https://github.com/blacklabel">@blacklabel</a> I work on a biotechnology project, building interactive molecular visuals using libraries such as <a href="https://molstar.org/">Mol*</a> and <a href="https://github.com/rcsb/rcsb-saguaro">RCSB Saguaro</a>.
       </p>
     </td>
   </tr>
