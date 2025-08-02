@@ -30,7 +30,7 @@ Full Stack Developer | **Computer & Electronics & Electromechanical Engin
   <tr>
     <td width="50%">
       <p>
-        I developed software and electronics hardware (PCB) for the electric car power‑train control system of a race car competing in the Formula Student international competitions. This hands‑on experience gave me insight into integrating software with hardware in demanding automotive applications.
+        I develop software and electronics hardware (PCB) for the electric car power‑train control system of a race car competing in the Formula Student international competitions. This hands‑on experience gave me insight into integrating software with hardware in demanding automotive applications.
       </p>
     </td>
     <td width="50%" style="text-align: right;">
