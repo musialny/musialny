@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-**Full Stack Developer** | **Computer & Electronics & Electromechanical Engineering**
+Full Stack Developer | **Computer & Electronics & Electromechanical Engineering**
 
 ---
 
@@ -15,8 +15,26 @@
     </td>
     <td width="50%">
       <p>
-        I develop data visualisation solutions. At my current company I work on a biotechnology project, building interactive molecular visuals using libraries such as <a href="https://molstar.org/">Mol*</a> and <a href="https://github.com/rcsb/rcsb-saguaro">RCSB Saguaro</a>.
+        I develop data visualisation solutions. At <a href="https://github.com/blacklabel">current company</a> I work on a biotechnology project, building interactive molecular visuals using libraries such as <a href="https://molstar.org/">Mol*</a> and <a href="https://github.com/rcsb/rcsb-saguaro">RCSB Saguaro</a>.
       </p>
+    </td>
+  </tr>
+
+</table>
+
+---
+
+### Formula Student (PK Mech Power) Experience
+
+<table>
+  <tr>
+    <td width="50%">
+      <p>
+        I developed software and electronics hardware (PCB) for the electric car power‑train control system of a race car competing in the Formula Student international competitions. This hands‑on experience gave me insight into integrating software with hardware in demanding automotive applications.
+      </p>
+    </td>
+    <td width="50%" style="text-align: right;">
+      <img src="https://github.com/user-attachments/assets/ad5d7229-e8be-4386-ae2f-43474e173cb6" alt="Formula Student Car on Rajd Małopolski" style="max-width: 100%;">
     </td>
   </tr>
 </table>
@@ -25,7 +43,7 @@
 
 ### About Me
 
-I’m a multi‑disciplinary engineer who bridges full‑stack software development with electronics, embedded systems and electromechanical design. My work spans native and web applications, embedded firmware, network infrastructure and CAD‑based hardware.
+Software engineer with an electrical‑engineering background, focused on embedded software, operating systems and distributed systems. I'm passionate about DevOps and modern web development, and deeply interested in hardware — from FPGA/ASIC design and integrated circuits to automotive applications such as electric vehicle powertrains — bridging software and hardware for highly optimised systems.
 
 ### Skills
 
@@ -33,7 +51,7 @@ I’m a multi‑disciplinary engineer who bridges full‑stack software developm
 
 **Native applications (desktop, server & mobile)**
 
-- [C++](https://isocpp.org), [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Kotlin](https://kotlinlang.org), [Swift](https://swift.org)
+- [C++](https://isocpp.org), [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Kotlin](https://kotlinlang.org)
 - [CMake](https://cmake.org), [Gradle](https://gradle.org)
 
 **Web development (full stack)**
@@ -62,6 +80,6 @@ I’m a multi‑disciplinary engineer who bridges full‑stack software developm
 #### Electromechanical Engineering
 
 - Electromechanical design with [SolidWorks](https://www.solidworks.com)
-- Finite element method (FEM) simulation with SolidWorks Simulation
+- Finite‑element simulations (electromagnetic, structural and other physical domains)
 
 ---
