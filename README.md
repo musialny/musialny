@@ -34,7 +34,7 @@ Full Stack Developer | **Computer & Electronics & Electromechanical Engin
       </p>
     </td>
     <td width="50%" style="text-align: right;">
-      <img src="https://github.com/user-attachments/assets/d806113a-ebc2-4845-830e-e02578ac2521" alt="Formula Student Car" style="max-width: 100%;">
+      <img src="https://github.com/user-attachments/assets/d806113a-ebc2-4845-830e-e02578ac2521" alt="Formula Student Car image created by Media'n'Design section at PK MechPower" style="max-width: 100%;">
     </td>
   </tr>
 </table>
