@@ -10,7 +10,7 @@ Full Stack Developer | **Computer & Electronics & Electromechanical Engin
 <table>
   <tr>
     <td width="50%" style="text-align: right;">
-      <img src="https://github.com/user-attachments/assets/09f6393e-a09b-4c17-860c-ad8f23161a27"
+      <img src="1acb.png"
            alt="1ACB Render with Cartoon Shading"
            style="max-width: 100%;">
     </td>
@@ -34,7 +34,7 @@ Full Stack Developer | **Computer & Electronics & Electromechanical Engin
       </p>
     </td>
     <td width="50%" style="text-align: right;">
-      <img src="https://github.com/user-attachments/assets/d806113a-ebc2-4845-830e-e02578ac2521" alt="Formula Student Car image created by Media'n'Design section at PK MechPower" style="max-width: 100%;">
+      <img src="Formula%C2%A0Student%20Car%20image%20created%20by%20Media'n'Design%20section%20at%20PK%20MechPower.jpg" alt="Formula Student Car image created by Media'n'Design section at PK MechPower" style="max-width: 100%;">
     </td>
   </tr>
 </table>
