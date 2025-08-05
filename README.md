@@ -41,6 +41,26 @@ Full Stack Developer | **Computer & Electronics & Electromechanical Engin
 
 ---
 
+#### PCB Design and Embedded Development
+<table>
+  <tr>
+    <td width="50%" style="text-align: right;">
+      <img src="can_devboard_render.png"
+           alt="Render of the CAN_Devboard"
+           style="max-width: 100%;">
+    </td>
+    <td width="50%">
+      <p>
+I design PCBs and develop embedded systems, with experience in communication protocols such as CAN. My work focuses on creating modular, reliable hardware for rapid prototyping and testing.
+
+As an example, I built the CAN_Devboard — a custom PCB that enables quick testing of multiple devboards and external devices on a CAN bus, streamlining debugging and development.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### About Me
 
 Software engineer with an electrical‑engineering background, focused on embedded software, operating systems and distributed systems. I'm passionate about DevOps and modern web development, and deeply interested in hardware — from FPGA/ASIC design and integrated circuits to automotive applications such as electric vehicle powertrains — bridging software and hardware for highly optimised systems.
