@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Full Stack Developer | **Computer & Electronics & Electromechanical Engineering**
+Full Stack Developer | **Computer & Electronics & Electrical Engineering**
 
 ---
 
@@ -63,7 +63,7 @@ As an example, I built the CAN_Devboard — a custom PCB that enables quick test
 
 ### About Me
 
-Software engineer with an electrical‑engineering background, focused on embedded software, operating systems and distributed systems. I'm passionate about DevOps and modern web development, and deeply interested in hardware — from FPGA/ASIC design and integrated circuits to automotive applications such as electric vehicle powertrains — bridging software and hardware for highly optimised systems.
+Engineer with a background in software and electrical engineering, focused on embedded software, operating systems and distributed systems. I'm passionate about DevOps and modern web development, and deeply interested in hardware — from FPGA/ASIC design and integrated circuits to automotive applications such as electric vehicle powertrains — bridging software and hardware for highly optimised systems.
 
 ### Skills
 
@@ -97,9 +97,9 @@ Software engineer with an electrical‑engineering background, focused on embedd
 - [Docker](https://www.docker.com), [Kubernetes](https://kubernetes.io)
 - [LXD / LXC](https://linuxcontainers.org), [Proxmox](https://www.proxmox.com)
 
-#### Electromechanical Engineering
+#### Electrical Engineering
 
 - Electromechanical design with [SolidWorks](https://www.solidworks.com)
-- Finite‑element simulations (electromagnetic, structural and other physical domains)
+- Electrical and electromechanical simulations (electromagnetic, structural and other physical domains)
 
 ---
