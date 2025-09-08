@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Full Stack Developer | **Computer & Electronics & Electrical Engineering**
+Full Stack Developer | **Computer & Electronics Engineering**
 
 ---
 
@@ -81,25 +81,21 @@ Engineer with a background in software and electrical engineering, focused on em
 - [Yarn](https://yarnpkg.com), [ESLint](https://eslint.org), [Node.js](https://nodejs.org)
 - [SASS](https://sass-lang.com), [WebAssembly (Wasm)](https://webassembly.org), [Emscripten](https://emscripten.org)
 
-#### Embedded & Electrical Engineering
+#### Embedded & Electronics Engineering
 
 - Assembly (AVR / ARM / x86)
 - [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://isocpp.org)
 - [Clang / LLVM](https://llvm.org), [GCC](https://gcc.gnu.org)
 - AVR 8‑bit, STM32, RPi Pico MCU series
 - PCB design with [Altium Designer](https://www.altium.com/altium-designer)
-- Circuit and electromagnetic simulation
+- Circuit and electromagnetic simulations (EMI, SI etc.)
 - Hardware description languages: [VHDL](https://en.wikipedia.org/wiki/VHDL), [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog)
+- Electromechanical design with [SolidWorks](https://www.solidworks.com)
 
 #### Network Infrastructure & DevOps
 
 - [Linux](https://www.linux.org) (SysOps)
 - [Docker](https://www.docker.com), [Kubernetes](https://kubernetes.io)
 - [LXD / LXC](https://linuxcontainers.org), [Proxmox](https://www.proxmox.com)
-
-#### Electrical Engineering
-
-- Electromechanical design with [SolidWorks](https://www.solidworks.com)
-- Electrical and electromechanical simulations (electromagnetic, structural and other physical domains)
 
 ---
