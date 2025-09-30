@@ -88,7 +88,7 @@ Engineer with a background in software and electrical engineering, focused on em
 - [Clang / LLVM](https://llvm.org), [GCC](https://gcc.gnu.org)
 - AVR 8‑bit, STM32, RPi Pico MCU series
 - PCB design with [Altium Designer](https://www.altium.com/altium-designer)
-- Circuit and electromagnetic simulations (EMI, SI etc.)
+- Circuit and electromagnetic simulations (SPICE, SI, PI, EMI / EMC etc.)
 - Hardware description languages: [VHDL](https://en.wikipedia.org/wiki/VHDL), [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog)
 - Electromechanical design with [SolidWorks](https://www.solidworks.com)
 
