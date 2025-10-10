@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Full Stack Developer | **Computer & Electronics Engineering**
+Full Stack Developer | **Computer & Electronics Specialist**
 
 ---
 
@@ -63,7 +63,7 @@ As an example, I built the CAN_Devboard — a custom PCB that enables quick test
 
 ### About Me
 
-Engineer with a background in software and electrical engineering, focused on embedded software, operating systems and distributed systems. I'm passionate about DevOps and modern web development, and deeply interested in hardware; from FPGA/ASIC design and integrated circuits to automotive applications such as electric vehicle powertrains; bridging software and hardware for highly optimised systems.
+Specialist with an expertise in software and electrical engineering, focused on embedded software, operating systems and distributed systems. I'm passionate about DevOps and modern web development, and deeply interested in hardware; from FPGA/ASIC design and integrated circuits to automotive applications such as electric vehicle powertrains; bridging software and hardware for highly optimised systems.
 
 ### Skills
 
