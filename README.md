@@ -71,7 +71,7 @@ Full Stack Developer specializing in data visualization, system programming, and
 
 **Native applications (desktop, server & mobile)**
 
-- [C++](https://isocpp.org), [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Kotlin](https://kotlinlang.org), [Swift](https://swift.org)
+- [C++](https://isocpp.org), [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Kotlin](https://kotlinlang.org)
 - [CMake](https://cmake.org), [Gradle](https://gradle.org)
 
 **Web development (full stack)**
