@@ -69,19 +69,19 @@ Full Stack Developer specializing in data visualization, system programming, and
 
 #### Software Engineering
 
-**Native applications (desktop, server & mobile)**
+**Applications & Systems programming**
 
 - [C++](https://isocpp.org), [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Kotlin](https://kotlinlang.org)
 - [CMake](https://cmake.org), [Gradle](https://gradle.org)
 
-**Web development (full stack)**
+**Web Development (Full Stack)**
 
 - [TypeScript](https://www.typescriptlang.org), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Kotlin](https://kotlinlang.org)
 - [Vue.js](https://vuejs.org), [Webpack](https://webpack.js.org), [Vite](https://vitejs.dev)
 - [Yarn](https://yarnpkg.com), [ESLint](https://eslint.org), [Node.js](https://nodejs.org)
 - [SASS](https://sass-lang.com), [WebAssembly (Wasm)](https://webassembly.org), [Emscripten](https://emscripten.org)
 
-#### Embedded & Electronics Engineering
+#### Embedded Development + Electronics & Computer Engineering
 
 - Assembly (AVR / ARM / x86)
 - [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://isocpp.org)
@@ -90,7 +90,7 @@ Full Stack Developer specializing in data visualization, system programming, and
 - PCB design with [Altium Designer](https://www.altium.com/altium-designer)
 - Circuit and electromagnetic simulations (SPICE, SI, PI, EMI / EMC etc.)
 - Hardware description languages: [VHDL](https://en.wikipedia.org/wiki/VHDL), [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog)
-- Electromechanical design with [SolidWorks](https://www.solidworks.com)
+- (Electromechanical) CAD design with [SolidWorks](https://www.solidworks.com)
 
 #### Network Infrastructure & DevOps
 
