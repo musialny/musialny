@@ -1,12 +1,12 @@
-# Łukasz Musiał | musialny.dev
+# Łukasz Musiał | musialny.dev
 
-Full Stack Developer | Electronics & Embedded Designer
+Full Stack & Embedded Developer | PCB Designer | ML Enthusiast
 
 ---
 
 ### Experience
 
-#### Data Viz at [@blacklabel](https://github.com/blacklabel) 
+#### Data Viz at [@blacklabel](https://github.com/blacklabel)
 <table>
   <tr>
     <td width="50%" style="text-align: right;">
@@ -16,7 +16,7 @@ Full Stack Developer | Electronics & Embedded Designer
     </td>
     <td width="50%">
       <p>
-        I develop data visualisation solutions. At <a href="https://github.com/blacklabel">@blacklabel</a> I work on a biotechnology project, building interactive molecular visuals using libraries such as <a href="https://molstar.org/">Mol*</a> and <a href="https://github.com/rcsb/rcsb-saguaro">RCSB Saguaro</a>.
+        I develop data visualisation solutions. At <a href="https://github.com/blacklabel">@blacklabel</a> I work on a biotechnology project, building interactive molecular visuals using libraries such as <a href="https://molstar.org/">Mol*</a> and <a href="https://github.com/rcsb/rcsb-saguaro">RCSB Saguaro</a>.
       </p>
     </td>
   </tr>
@@ -24,17 +24,17 @@ Full Stack Developer | Electronics & Embedded Designer
 
 ---
 
-### Formula Student (PK Mech Power) Experience
+### Formula Student (PK Mech Power) Experience
 
 <table>
   <tr>
     <td width="50%">
       <p>
-        I develop software and electronics hardware (PCB) for the electric car power‑train control system of a race car competing in the Formula Student international competitions. This hands‑on experience gave me insight into integrating software with hardware in demanding automotive applications.
+        I develop software and electronics hardware (PCB) for the electric car power‑train control system of a race car competing in the Formula Student international competitions. This hands‑on experience gave me insight into integrating software with hardware in demanding automotive applications.
       </p>
     </td>
     <td width="50%" style="text-align: right;">
-      <img src="Formula%C2%A0Student%20Car%20image%20created%20by%20Media'n'Design%20section%20at%20PK%20MechPower.jpg" alt="Formula Student Car image created by Media'n'Design section at PK MechPower" style="max-width: 100%;">
+      <img src="Formula%C2%A0Student%20Car%20image%20created%20by%20Media'n'Design%20section%20at%20PK%20MechPower.jpg" alt="Formula Student Car image created by Media'n'Design section at PK MechPower" style="max-width: 100%;">
     </td>
   </tr>
 </table>
@@ -53,7 +53,7 @@ Full Stack Developer | Electronics & Embedded Designer
       <p>
 I design PCBs and develop embedded systems, with experience in communication protocols such as CAN. My work focuses on creating modular, reliable hardware for rapid prototyping and testing.
 
-As an example, I built the CAN_Devboard — a custom PCB that enables quick testing of multiple devboards and external devices on a CAN bus, streamlining debugging and development.
+As an example, I built the CAN_Devboard: a custom PCB that enables quick testing of multiple devboards and external devices on a CAN bus, streamlining debugging and development.
       </p>
     </td>
   </tr>
@@ -63,39 +63,16 @@ As an example, I built the CAN_Devboard — a custom PCB that enables quick test
 
 ### About Me
 
-Full Stack Developer specializing in data visualization, system programming, and embedded software. I develop solutions across software and hardware; from web technologies and DevOps to electronics design, HDL programming, and automotive systems.
+Full Stack Developer specializing in data visualization, system programming, and embedded software. I develop solutions across software and hardware; from web technologies and DevOps to PCB design and FPGA/HDL development. Currently exploring ML with focus on model inference, training, and fine-tuning.
 
 ### Skills
 
-#### Software Engineering
+**Software:** TypeScript, JavaScript, Vue.js, C++, C, Kotlin | CMake, Gradle, Webpack, Vite, Yarn | Docker
 
-**Applications & Systems programming**
+**Hardware/Embedded:** STM32, AVR, RPi Pico | Clang/LLVM, GCC | Altium Designer (PCB) | SPICE, SI/PI, EMI/EMC simulations | VHDL, SystemVerilog (FPGA)
 
-- [C++](https://isocpp.org), [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Kotlin](https://kotlinlang.org)
-- [CMake](https://cmake.org), [Gradle](https://gradle.org)
+**ML:** Model inference, training, fine-tuning
 
-**Web Development (Full Stack)**
-
-- [TypeScript](https://www.typescriptlang.org), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Kotlin](https://kotlinlang.org)
-- [Vue.js](https://vuejs.org), [Webpack](https://webpack.js.org), [Vite](https://vitejs.dev)
-- [Yarn](https://yarnpkg.com), [ESLint](https://eslint.org), [Node.js](https://nodejs.org)
-- [SASS](https://sass-lang.com), [WebAssembly (Wasm)](https://webassembly.org), [Emscripten](https://emscripten.org)
-
-#### Embedded Development + Electronics & Computer Engineering
-
-- Assembly (AVR / ARM / x86)
-- [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://isocpp.org)
-- [Clang / LLVM](https://llvm.org), [GCC](https://gcc.gnu.org)
-- AVR 8‑bit, STM32, RPi Pico MCU series
-- PCB design with [Altium Designer](https://www.altium.com/altium-designer)
-- Circuit and electromagnetic simulations (SPICE, SI, PI, EMI / EMC etc.)
-- Hardware description languages: [VHDL](https://en.wikipedia.org/wiki/VHDL), [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog)
-- (Electromechanical) CAD design with [SolidWorks](https://www.solidworks.com)
-
-#### Network Infrastructure & DevOps
-
-- [Linux](https://www.linux.org) (SysOps)
-- [Docker](https://www.docker.com), [Kubernetes](https://kubernetes.io)
-- [LXD / LXC](https://linuxcontainers.org), [Proxmox](https://www.proxmox.com)
+**DevOps:** Linux, Docker, Kubernetes, LXD/LXC, Proxmox
 
 ---
