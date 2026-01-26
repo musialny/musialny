@@ -69,7 +69,7 @@ Full Stack Developer specializing in data visualization, system programming, and
 
 **Software:** TypeScript, JavaScript, Vue.js, C++, C, Kotlin | CMake, Gradle, Webpack, Vite, Yarn | Docker
 
-**Hardware/Embedded:** STM32, AVR, RPi Pico | C, Clang/LLVM, GCC | Altium Designer (PCB) | SPICE, SI/PI, EMI/EMC simulations | VHDL, SystemVerilog (FPGA)
+**Hardware/Embedded:** ARM / RISC-V (ESP32, RPi Pico, STM32), AVR | C, Clang/LLVM, GCC | Altium Designer (PCB) | SPICE, SI/PI, EMI/EMC simulations | VHDL, SystemVerilog (FPGA)
 
 **ML:** Model inference, training, fine-tuning
 
