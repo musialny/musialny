@@ -71,8 +71,12 @@ Full Stack Developer specializing in data visualization, system programming, and
 
 **Hardware/Embedded:** ARM / RISC-V (ESP32, RPi Pico, STM32), AVR | C, Clang/LLVM, GCC | Altium Designer (PCB) | SPICE, SI/PI, EMI/EMC simulations | VHDL, SystemVerilog (FPGA)
 
+**DevOps:** Linux, Docker, Kubernetes, LXD/LXC, Proxmox
+
+#### Exploring:
+
 **ML:** Model inference, training, fine-tuning
 
-**DevOps:** Linux, Docker, Kubernetes, LXD/LXC, Proxmox
+**ASIC Design: ** Analog ASIC Design using XSchema, ngspice and KLayout. Digital ASIC Design using HDLs (VHDL, SystemVerilog)
 
 ---
