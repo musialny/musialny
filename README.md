@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Full Stack & Embedded Developer | PCB Designer | ML Enthusiast
+Full Stack & Embedded Developer | PCB & HDL Designer | EV Powertrain
 
 ---
 
