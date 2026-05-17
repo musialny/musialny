@@ -74,7 +74,7 @@ Full Stack Developer specializing in data visualization, system programming, and
 
 #### Exploring:
 
-**ML:** Model inference, training, fine-tuning
+**ML:** Model inference, training, fine-tuning and Python (-_-)
 
 **ASIC Design:** Analog ASIC Design using XSchema, ngspice and KLayout. Digital ASIC Design using HDLs (VHDL, SystemVerilog)
 
