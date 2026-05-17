@@ -63,8 +63,7 @@ As an example, I built the CAN_Devboard: a custom PCB that enables quick testing
 
 ### About Me
 
-Full Stack Developer specializing in data visualization, system programming, and embedded software. I develop solutions across software and hardware; from web technologies and DevOps to PCB design and FPGA/HDL development. Currently exploring ML with focus on model inference, training, and fine-tuning.
-
+Full Stack Developer specializing in data visualization, system programming, and embedded software. I develop solutions across software and hardware; from web technologies and DevOps to PCB design and FPGA/HDL development. Currently exploring ASIC design and ML.
 ### Skills
 
 **Software:** TypeScript, JavaScript, Vue.js, C++, C, Kotlin | CMake, Gradle, Webpack, Vite, Yarn | Docker
@@ -77,6 +76,6 @@ Full Stack Developer specializing in data visualization, system programming, and
 
 **ML:** Model inference, training, fine-tuning
 
-**ASIC Design: ** Analog ASIC Design using XSchema, ngspice and KLayout. Digital ASIC Design using HDLs (VHDL, SystemVerilog)
+**ASIC Design:** Analog ASIC Design using XSchema, ngspice and KLayout. Digital ASIC Design using HDLs (VHDL, SystemVerilog)
 
 ---
