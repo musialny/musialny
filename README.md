@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Full Stack & Embedded Developer | PCB & HDL Designer | EV Powertrain
+Full Stack Developer - Data Processing, Transformation & Visualization, DevOps | Embedded, PCB & HDL Design | EV Powertrain
 
 ---
 
@@ -63,7 +63,10 @@ As an example, I built the CAN_Devboard: a custom PCB that enables quick testing
 
 ### About Me
 
-Full Stack Developer specializing in data visualization, system programming, and embedded software. I develop solutions across software and hardware; from web technologies and DevOps to PCB design and FPGA/HDL development. Currently exploring ASIC design and ML. In my free time I'm also involved in developing the EV powertrain.
+Full Stack Developer specializing in systems for data processing, transformation, and visualization, with a strong focus on DevOps.
+
+In parallel, I work extensively in systems and embedded programming (C/C++): writing firmware for various embedded platforms, designing PCBs in Altium Designer, and programming FPGAs in VHDL/SystemVerilog. In my free time, I'm also involved in developing EV powertrain control systems, and currently exploring ASIC design and ML.
+
 ### Skills
 
 **Software:** TypeScript, JavaScript, Vue.js, C++, C | CMake, Webpack, Vite, Yarn | Docker
