@@ -1,6 +1,6 @@
 # Łukasz Musiał | musialny.dev
 
-Full Stack Developer - Data Processing, Transformation & Visualization, DevOps | Embedded, PCB & HDL Design | EV Powertrain
+Full Stack Developer - Data Processing, Transformation, Visualization & DevOps | Embedded, PCB & HDL Design | EV Powertrain
 
 ---
 
