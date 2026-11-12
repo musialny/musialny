@@ -72,15 +72,17 @@ Data visualization software.
 
 ## Certifications
 
-![DGUV 3E](https://img.shields.io/badge/DGUV_209--093-3E-orange) live work on high-voltage vehicle systems<br>
-![DGUV 2E](https://img.shields.io/badge/DGUV_209--093-2E-orange) work on de-energized high-voltage vehicle systems<br>
-![SEP](https://img.shields.io/badge/SEP_G1%2FE-%E2%89%A41_kV-blue) operation of electrical installations and equipment up to 1 kV
+| Certification | Scope |
+|---|---|
+| ![DGUV 3E](https://img.shields.io/badge/DGUV_209--093-3E-orange) | Live work on high-voltage vehicle systems |
+| ![DGUV 2E](https://img.shields.io/badge/DGUV_209--093-2E-orange) | Work on de-energized high-voltage vehicle systems |
+| ![SEP](https://img.shields.io/badge/SEP_G1%2FE-%E2%89%A41_kV-blue) | Operation of electrical installations and equipment up to 1 kV |
 
 ---
 
 ## Stack
 
-**Software:** TypeScript, JavaScript, Vue.js, Nuxt, C++, C | CMake, Webpack, Vite, Yarn<br>
+**Software:** TypeScript, JavaScript, Vue.js, Nuxt, C++, C | CMake, Webpack, Vite, Yarn | Vulkan, WebGL, WebGPU<br>
 <sub>Also familiar with the Elixir / Phoenix and Erlang ecosystems.</sub>
 
 **Infrastructure (DevOps / SysOps):** Linux, Docker, Kubernetes, LXD/LXC, Proxmox, GCP (Cloud Run)
