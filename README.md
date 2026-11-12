@@ -9,7 +9,7 @@ and HV & LV control systems for electric vehicles.
 
 ## Work
 
-### [Black Label](https://github.com/blacklabel) (2025 – present)
+### @blacklabel (2025 – present)
 
 Data visualization software.
 
@@ -72,19 +72,27 @@ Data visualization software.
 
 ## Certifications
 
-DGUV 209-093 2E/3E · SEP G1/E up to 1 kV
+![DGUV 3E](https://img.shields.io/badge/DGUV_209--093-3E-orange)
+![DGUV 2E](https://img.shields.io/badge/DGUV_209--093-2E-orange)
+![SEP](https://img.shields.io/badge/SEP_G1%2FE-%E2%89%A41_kV-blue)
 
 ---
 
 ## Stack
 
-**Software:** TypeScript, JavaScript, Vue.js, Nuxt, C++, C | CMake, Webpack, Vite, Yarn | Mol*, RCSB Saguaro<br>
-Also familiar with the Elixir / Phoenix and Erlang ecosystems (not daily work); exploring ML – model inference, training and fine-tuning.
+**Software:** TypeScript, JavaScript, Vue.js, Nuxt, C++, C | CMake, Webpack, Vite, Yarn
+
+Also familiar with the Elixir / Phoenix and Erlang ecosystems (not daily work).
 
 **Infrastructure (DevOps / SysOps):** Linux, Docker, Kubernetes, LXD/LXC, Proxmox, GCP (Cloud Run)
 
-**Embedded & hardware:** ARM / RISC-V (ESP32, RPi Pico, STM32), AVR | C, Clang/LLVM, GCC | Altium Designer (PCB) | SPICE, SI/PI, EMI/EMC | VHDL, SystemVerilog (FPGA)<br>
-Exploring: analog and digital ASIC design (XSchem, ngspice, KLayout).
+**Embedded & hardware:** ARM / RISC-V (ESP32, RPi Pico, STM32), AVR | C, Clang/LLVM, GCC | Altium Designer (PCB) | SPICE, SI/PI, EMI/EMC | VHDL, SystemVerilog (FPGA)
+
+### Exploring
+
+**ML:** model inference, training and fine-tuning
+
+**ASIC design:** analog and digital (XSchem, ngspice, KLayout)
 
 ---
 
@@ -98,9 +106,3 @@ A board for testing multiple devboards and external devices on a CAN bus, used b
 
 In progress: vehicle telemetry (ESP32, live view), which will become
 the base of a universal vehicle module with extension boards.
-
----
-
-## How I work
-
-[How I work](HOW_I_WORK.md) – design flow, code and testing rules.
