@@ -82,12 +82,12 @@ Data visualization software.
 
 ## Stack
 
-**Software:** TypeScript, JavaScript, Vue.js, Nuxt, C++, C | CMake, Webpack, Vite, Yarn | Vulkan, WebGL, WebGPU<br>
+**Software:** TypeScript, Vue.js, Nuxt, C++, C | Build tooling: Webpack, Vite, Yarn, CMake | Vulkan, WebGL, WebGPU<br>
 <sub>Also familiar with the Elixir / Phoenix and Erlang ecosystems.</sub>
 
 **Infrastructure (DevOps / SysOps):** Linux, Docker, Kubernetes, LXD/LXC, Proxmox, GCP (Cloud Run)
 
-**Embedded & hardware:** ARM / RISC-V (ESP32, RPi Pico, STM32), AVR | C, Clang/LLVM, GCC | Altium Designer (PCB) | SPICE, SI/PI, EMI/EMC | VHDL, SystemVerilog (FPGA)
+**Embedded & hardware:** ARM / RISC-V (ESP32, RPi Pico, STM32), AVR | C, CMake, Clang/LLVM, GCC | Altium Designer (PCB) | SPICE, SI/PI, EMI/EMC | VHDL, SystemVerilog (FPGA)
 
 ### Exploring
 
