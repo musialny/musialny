@@ -82,7 +82,7 @@ Data visualization software.
 
 ## Stack
 
-**Software:** TypeScript, Vue.js, Nuxt, C++, C | Build tooling: Webpack, Vite, Yarn, CMake | Vulkan, WebGL, WebGPU<br>
+**Software:** TypeScript, Vue.js, Nuxt, C++, C | Build tooling: Webpack, Vite, CMake | Vulkan, WebGL, WebGPU<br>
 <sub>Also familiar with the Elixir / Phoenix and Erlang ecosystems.</sub>
 
 **Infrastructure (DevOps / SysOps):** Linux, Docker, Kubernetes, LXD/LXC, Proxmox, GCP (Cloud Run)
