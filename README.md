@@ -89,11 +89,13 @@ Data visualization software.
 
 **Infrastructure (DevOps / SysOps):** Linux, Docker, Kubernetes, LXD/LXC, Proxmox, GCP (Cloud Run)
 
-**Embedded & hardware:** ARM / RISC-V (ESP32, RPi Pico, STM32), AVR | C, CMake, Clang/LLVM, GCC | Altium Designer (PCB) | SPICE, SI/PI, EMI/EMC | VHDL, SystemVerilog (FPGA)
+**Embedded & hardware:** ARM / RISC-V (ESP32, RPi Pico, STM32), AVR | C, CMake, Clang/LLVM, GCC | Altium Designer (PCB) | SPICE | VHDL, SystemVerilog (FPGA)
 
 ### Exploring
 
 **Computer graphics:** Vulkan, WebGL, WebGPU
+
+**Hardware simulations:** SI/PI, EMI/EMC
 
 **ML:** model inference, training and fine-tuning
 
