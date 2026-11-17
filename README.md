@@ -26,7 +26,9 @@ Data visualization software.
         FlareDesigner – a platform giving biologists without a technical background access to biotech ML models.
       </p>
       <ul>
-        <li>Developed the entire frontend, including interactive molecular visualizations (<a href="https://molstar.org/">Mol*</a>, <a href="https://github.com/rcsb/rcsb-saguaro">RCSB Saguaro</a>)</li>
+        <li>Developed the entire frontend</li>
+        <li>Built views of model results for biologists: filterable tables and charts for separating meaningful results from noise</li>
+        <li>Integrated interactive 3D molecular visualization (<a href="https://molstar.org/">Mol*</a>)</li>
         <li>Developed backend microservices, including services wrapping model-running code and exposing a fixed set of parameters</li>
         <li>Set up CI/CD, the GCP configuration (mainly Cloud Run) and Kubernetes clusters on OVH</li>
         <li>Took over the orchestrator service that starts model runners on demand and runs them in parallel under load</li>
@@ -82,7 +84,7 @@ Data visualization software.
 
 ## Stack
 
-**Software:** TypeScript, Vue.js, Nuxt, C++, C | Build tooling: Webpack, Vite, CMake | Vulkan, WebGL, WebGPU<br>
+**Software:** TypeScript, Vue.js, Nuxt, C++, C | Build tooling: Webpack, Vite, CMake<br>
 <sub>Also familiar with the Elixir / Phoenix and Erlang ecosystems.</sub>
 
 **Infrastructure (DevOps / SysOps):** Linux, Docker, Kubernetes, LXD/LXC, Proxmox, GCP (Cloud Run)
@@ -90,6 +92,8 @@ Data visualization software.
 **Embedded & hardware:** ARM / RISC-V (ESP32, RPi Pico, STM32), AVR | C, CMake, Clang/LLVM, GCC | Altium Designer (PCB) | SPICE, SI/PI, EMI/EMC | VHDL, SystemVerilog (FPGA)
 
 ### Exploring
+
+**Computer graphics:** Vulkan, WebGL, WebGPU
 
 **ML:** model inference, training and fine-tuning
 
