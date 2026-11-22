@@ -1,8 +1,8 @@
 # Łukasz Musiał | musialny.dev
 
-Software Engineer – Data Visualization & Cloud Infrastructure | Embedded & EV Electronics (DGUV 3E, SEP G1)
+Software Developer – Data Visualization & Cloud Infrastructure | Embedded & EV Electronics (DGUV 3E, SEP G1)
 
-Software engineer working across data visualization, cloud infrastructure
+Software developer working across data visualization, cloud infrastructure
 and HV & LV control systems for electric vehicles.
 
 ---
